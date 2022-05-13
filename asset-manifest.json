@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2be57d94.css",
-    "main.js": "/static/js/main.1f2c9b59.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/SEGA.woff": "/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/index.html",
-    "main.2be57d94.css.map": "/static/css/main.2be57d94.css.map",
-    "main.1f2c9b59.js.map": "/static/js/main.1f2c9b59.js.map"
+    "main.css": "/react-robots-pwa/static/css/main.eedb3d55.css",
+    "main.js": "/react-robots-pwa/static/js/main.1e6deabf.js",
+    "service-worker.js": "/react-robots-pwa/service-worker.js",
+    "static/media/SEGA.woff": "/react-robots-pwa/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/react-robots-pwa/index.html",
+    "main.eedb3d55.css.map": "/react-robots-pwa/static/css/main.eedb3d55.css.map",
+    "main.1e6deabf.js.map": "/react-robots-pwa/static/js/main.1e6deabf.js.map"
   },
   "entrypoints": [
-    "static/css/main.2be57d94.css",
-    "static/js/main.1f2c9b59.js"
+    "static/css/main.eedb3d55.css",
+    "static/js/main.1e6deabf.js"
   ]
 }
