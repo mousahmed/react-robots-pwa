@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homeapage": "https://mousahmed.github.io/react-robots-pwa",
+  "homepage": "https://mousahmed.github.io/react-robots-pwa",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^18.0.2",
